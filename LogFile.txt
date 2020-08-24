@@ -1,0 +1,54 @@
+Logfile ev3bot_main
+
+Sun, 17 Mar 2019 20:40:57 +0000 start actuator
+Sun, 17 Mar 2019 20:40:57 +0000 gyroscope readout started
+Sun, 17 Mar 2019 20:40:57 +0000 update controller parameters
+Sun, 17 Mar 2019 20:44:07 +0000 start actuator
+Sun, 17 Mar 2019 20:44:07 +0000 gyroscope readout started
+Sun, 17 Mar 2019 20:44:07 +0000 update controller parameters
+Mon, 25 Mar 2019 20:20:39 +0000 start actuator
+Mon, 25 Mar 2019 20:20:39 +0000 gyroscope readout started
+Mon, 25 Mar 2019 20:20:39 +0000 update controller parameters
+
+ 
+--------------------------------------------------------------------
+Sat, 06 Apr 2019 20:22:20 start actuator
+--------------------------------------------------------------------
+test a
+test b
+test c
+ 
+--------------------------------------------------------------------
+Sat, 06 Apr 2019 20:22:20 gyroscope readout started
+--------------------------------------------------------------------
+test a
+test b
+test c
+ 
+--------------------------------------------------------------------
+Sat, 06 Apr 2019 20:22:20 update controller parameters
+--------------------------------------------------------------------
+test a
+test b
+test c
+ 
+--------------------------------------------------------------------
+Tue, 10 Mar 2020 19:59:35 start actuator
+--------------------------------------------------------------------
+test a
+test b
+test c
+ 
+--------------------------------------------------------------------
+Tue, 10 Mar 2020 19:59:35 gyroscope readout started
+--------------------------------------------------------------------
+test a
+test b
+test c
+ 
+--------------------------------------------------------------------
+Tue, 10 Mar 2020 19:59:35 update controller parameters
+--------------------------------------------------------------------
+test a
+test b
+test c
